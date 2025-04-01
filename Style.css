@@ -1,0 +1,27 @@
+body{
+  background-color: hsl(197, 90%, 91%);
+  width: 50%; 
+  margin: 50px auto;
+}
+.content{
+    border: 3px solid white;
+    border-radius: 15px;
+    background-color:white;
+    padding: 8px;
+    box-sizing: border-box;
+   
+}
+
+h2,
+p {
+    text-align: center;
+}
+
+.content img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 10px;
+
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
